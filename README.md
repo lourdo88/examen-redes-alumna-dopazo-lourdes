@@ -2,7 +2,7 @@
 **Alumno:** [DOPAZO LOURDES]  
 **Fecha:** [[29/05/2008]  
 **Plataforma:** GitLab/GitHub
-**Repositorio:** [url del repo]  
+**Repositorio:** [(https://github.com/lourdo88/examen-redes-alumna-dopazo-lourdes)]  
 
 ---
 
