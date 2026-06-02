@@ -26,8 +26,11 @@
 
 ### Respuestas a las preguntas
 
-1. .¿Qué criterio usaste para elegir tu IP esttica?   
-2. ¿Por qu el enunciado prohibe usar los DNS de Google?  
+1. .¿Qué criterio usaste para elegir tu IP esttica?
+   Elegí una IP dentro del mismo rango de red (10.103.103.x) con un número que no estuviera ocupado por otro dispositivo. Para evitar conflictos, verifiqué con ping que la IP no tuviera respuesta antes de asignarla. 
+
+2. ¿Por qu el enunciado prohibe usar los DNS de Google?
+   Porque en redes corporativas o educativas se suelen usar DNS propios por razones de control, privacidad y políticas de red. Usar DNS externos como los de Google puede saltear filtros de contenido o exponer consultas DNS a terceros.  
 
 ---
 
